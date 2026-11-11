@@ -143,13 +143,6 @@ The following metrics can be used to evaluate model performance:
 ## ⚠️ Disclaimer
 
 This project is developed for educational and research purposes only. It is not intended to replace professional medical diagnosis or clinical evaluation. Predictions should not be used as the sole basis for medical decisions.
-
-## 👩‍💻 Author
-
-**Your Name**
-
-Computer Science Engineering Student
-
 [GitHub](https://github.com/YOUR-USERNAME) | [LinkedIn](https://www.linkedin.com/)
 
 ---
